@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    height: auto;
+    margin: 5vh auto 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__logo {
+    width: 32vw;
+    min-width: 180px;
+    max-width: 255px;
+    height: auto;
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+
+}
+
+.header__logo-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
