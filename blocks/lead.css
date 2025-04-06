@@ -74,6 +74,10 @@
 }
 
 @media screen and (max-width: 544px) {
+    .lead {
+        margin-bottom: 5vh;
+    }
+
     .lead__content {
         width: 100%;
     }

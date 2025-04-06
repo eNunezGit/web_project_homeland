@@ -23,3 +23,9 @@
     height: auto;
     object-fit: contain;
 }
+
+@media screen and (max-width: 544px) {
+    .header {
+        margin-bottom: 5vh;
+    }
+}
